@@ -1,4 +1,4 @@
-#**Pitchfork reviews analysis.**
+#Pitchfork reviews analysis.
 
 Pitchfork is one of the largest and most popular music websites. It is not only a good source of knowledge for music consumers but it’s also believed to have great influence on the music market, especially indie music (so called ‘Pitchfork Effect’).  Large base of reviews is also a great source of data to analyse -  I decided to collect this data and conduct a simple statistical analysis. 
 
