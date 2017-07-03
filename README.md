@@ -1,13 +1,13 @@
 # **Pitchfork reviews analysis.**
 
 
-Pitchfork is one of the largest and most popular music websites. It is not only a good source of knowledge for music consumers but it’s also believed to have great influence on the music market, especially indie music (so called ‘Pitchfork Effect’).  Large base of reviews is also a great source of data to analyse -  I decided to collect this data and conduct a simple statistical analysis. 
+Pitchfork is one of the largest and most popular music websites. It is not only a good source of knowledge for music consumers, but it’s also believed to have great influence on the music market, especially indie music (so called ‘Pitchfork Effect’).  Large base of reviews is also a great source of data to analyse -  I decided to collect this data and conduct a simple statistical analysis. 
 
 **Collecting the data.** 
 
 An easy way to gather the data from a website is a web crawler. Because reviews’ section of pitchfork.com has a very clear structure (and so do the reviews themselves) writing a crawler is a simple task. I decided to go with Python and Scrapy. 
 
-Data regarding 18 959 reviews was collected with the crawler. Every reviews was described by:
+Data regarding 18 959 reviews was collected with the crawler. Every review was described by:
 
 -	artist (author of the album reviewed)
 -	album name
