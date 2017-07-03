@@ -23,7 +23,7 @@ Data regarding 18 959 reviews was collected with the crawler. Every reviews was 
 
 **Cleaning the data.**
 
-Gathered data required some work before conducting an analysis – the review’s author name was sometimes misspelled or a different form of a name was used in different reviews i.e.: 
+Gathered data required some work before conducting an analysis – the review’s author name was sometimes misspelled or a different form of a name was used in different reviews e.g.: 
 
 > Edwin "STATS" Houghton', 'Edwin “STATS” Houghton', 'Edwn "STATS" Houghton'
 
